@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="left">Hi 👋, I'm Anshuman Gahlot</h1> 
 <h3 align="left">CSE Undergrad | Java Coder | Web Developer</h3>
+![Profile views](https://komarev.com/ghpvc/?username=anshumangahlot&color=blue)
 
 ---
 
@@ -56,8 +57,6 @@ Here are some ideas to get you started:
 </p>
 
 ---
-
-![Profile views](https://komarev.com/ghpvc/?username=anshumangahlot&color=blue)
 
 ## ⚡ Fun Fact
 
