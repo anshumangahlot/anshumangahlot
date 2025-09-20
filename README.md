@@ -35,14 +35,6 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=java,html,css,js,tailwind,git,github,vscode,figma" />
 </p>
 
----
-
-## 🧠 LeetCode Stats
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/anshuman_gahlot?ext=contest)](https://leetcode.com/anshuman_gahlot)
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
