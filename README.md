@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="left">Hi 👋, I'm Anshuman Gahlot</h1> 
-<h3 align="left">CSE Undergrad | Java Coder | Web Developer</h3>
+<h3 align="left">CSE Undergrad</h3>
 
 ---
 
@@ -35,12 +35,14 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=java,html,css,js,tailwind,git,github,vscode,figma" />
 </p>
 
+---
+<!--
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anshumangahlot&theme=tokyonight&row=1&column=6" />
-</p>
-
+</p> -->
+<!--
 ---
 
 ## 📈 GitHub Stats
@@ -50,7 +52,3 @@ Here are some ideas to get you started:
 </p>
 
 ---
-
-## ⚡ Fun Fact
-
-I drink Java with my bugs and still manage to compile joy out of errors! 
