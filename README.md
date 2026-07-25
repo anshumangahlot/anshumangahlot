@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🌱 Currently learning: **Data Structures in Java** & **Web Development**
 - 👨‍💻 Actively building: Projects and solving LeetCode problems
 - 💬 Ask me about **JS & Java**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anshumangahlot)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anshuman-gahlot)
 
 ---
 
