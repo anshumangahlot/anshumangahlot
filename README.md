@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,tailwind,git,github,vscode,figma,postman,springboot,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,tailwind,git,github,vscode,figma,postman,mysql" />
 </p>
 
 ---
