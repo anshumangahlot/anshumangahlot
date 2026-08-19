@@ -22,9 +22,8 @@ Here are some ideas to get you started:
 
 ## 🧑‍💻 About Me
 
-- 🌱 Currently learning: **Data Structures in Java** & **Web Development**
+- 🌱 Currently learning: **Data Structures in Java** & **Backend Development**
 - 👨‍💻 Actively building: Projects and solving LeetCode problems
-- 💬 Ask me about **JS & Java**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anshuman-gahlot)
 
 ---
@@ -32,7 +31,7 @@ Here are some ideas to get you started:
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,tailwind,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,tailwind,git,github,vscode,figma,postman,springboot,mysql" />
 </p>
 
 ---
